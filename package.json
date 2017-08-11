@@ -8,10 +8,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/kweiberth/react-todo-list.git"
+    "url": "https://github.com/mikaelz/react-todo-list"
   },
-  "author": "Kurt Weiberth",
-  "license": "ISC",
+  "author": "Michal Zuber",
+  "license": "MIT",
   "dependencies": {
     "babel-core": "^6.4.5",
     "babel-loader": "^6.2.2",
